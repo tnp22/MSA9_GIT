@@ -12,3 +12,7 @@
 
 단어 단위 삭제 : Ctrl + w, 
 현재 라인 전체 삭제 : Ctrl + u
+
+git revert 해당 커밋 삭제
+
+git reset head~1 --hard 커밋 삭제하고 바로 전 커밋으로 이동
