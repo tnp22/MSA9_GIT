@@ -2,6 +2,7 @@
 깃 연습 2
 
 복사하기 : Ctrl + Insert
+
 붙여넣기 : Shitf + Insert
 라인 맨 앞 이동 : Ctrl + a
 라인 맨 뒤 이동 : Ctrl + e 
